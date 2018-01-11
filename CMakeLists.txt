@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(rplidar_ros)
 
-set (CMAKE_CXX_STANDARD 03)
+set (CMAKE_CXX_STANDARD 98)
 
 set(RPLIDAR_SDK_PATH "./sdk/")
 
